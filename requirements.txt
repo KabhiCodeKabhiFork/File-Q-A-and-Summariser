@@ -1,0 +1,5 @@
+streamlit
+tika
+langchain_text_splitters
+mistralai
+zipfile
