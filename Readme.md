@@ -14,13 +14,9 @@ To install the application, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/KabhiCodeKabhiFork/File-Q-A-AND-SUMMARIZER.git
+    git clone https://github.com/KabhiCodeKabhiFork/File-Q-A-and-Summariser
     ```
-2. Navigate to the project directory:
-    ```bash
-    cd File-Q-A-AND-Summarizer
-    ```
-3. Install the required dependencies:
+2. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
     ```
