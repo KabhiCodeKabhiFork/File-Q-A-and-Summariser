@@ -38,7 +38,7 @@ question = st.text_input(
       disabled=not uploaded_file)
 
 if uploaded_file and question and not api_key:
-    st.info("Please add your Anthropic API key to continue.")
+    st.info("Please add your API key to continue.")
 
 if uploaded_file and question and api_key:
     files = {}
