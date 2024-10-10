@@ -1,4 +1,5 @@
 # File Q&A and Summarizer
+<img width="1078" alt="Screenshot 2024-10-10 at 10 24 43 AM" src="https://github.com/user-attachments/assets/c34718be-2c08-4c83-8cda-4f221e156bd6">
 
 ## 📄 Overview
 The **File Q&A and Summarizer** application is designed to help users quickly extract key information and summaries from their documents. This tool leverages advanced natural language processing techniques to provide concise answers and summaries based on the content of the files.
